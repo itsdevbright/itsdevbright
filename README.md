@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Bright (aka Brix)
+# 👋 Hi, I’m Bright (aka DevWithBright)
 
 I'm a self-driven **Software Engineer** focused on building useful, accessible, and engaging web apps.
 
