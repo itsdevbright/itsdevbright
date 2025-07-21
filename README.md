@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Bright (aka DevWithBright)
+# 👋 Hi, I’m Bright Lawrence (A.K.A DevWithBright)
 
 I'm a self-driven **Software Engineer** focused on building useful, accessible, and engaging web apps.
 
