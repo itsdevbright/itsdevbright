@@ -4,7 +4,7 @@ I'm a self-driven **Software Engineer** focused on building useful, accessible, 
 
 - 🌐 I work with tools like **React**, **Vue**, **Three.js**, and **Tailwind**
 - 🧠 I love solving problems with **creativity and code**
-- ✨ I also run **Foxlade**, offering tech design and branding services
+- ✨ I also run **Nox**, offering tech design and branding services
 
 ## 🚀 Tech Stack & Tools
 
