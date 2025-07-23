@@ -1,10 +1,10 @@
-# 👋 Hi, I’m Bright Lawrence (A.K.A DevWithBright)
+# 👋 Hi, I’m Bright Lawrence (DevWithBright)
 
 I'm a self-driven **Software Engineer** focused on building useful, accessible, and engaging web apps.
 
 - 🌐 I work with tools like **React**, **Vue**, **Three.js**, and **Tailwind**
 - 🧠 I love solving problems with **creativity and code**
-- ✨ I also run **Nox**, offering tech design and branding services
+- ✨ I also run **NOX**, offering tech design and branding services
 
 ## 🚀 Tech Stack & Tools
 
