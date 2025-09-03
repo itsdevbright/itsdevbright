@@ -31,8 +31,8 @@ I build **impactful web applications** and **innovative tools** that empower peo
 ---
 
 ### 📈 GitHub Stats
-![Bright's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dracula)
+![Bright's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsdevbright&show_icons=true&theme=dracula)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsdevbright&layout=compact&theme=dracula)
 
 ---
 
