@@ -37,7 +37,7 @@ I build **impactful web applications** and **innovative tools** that empower peo
 ---
 
 ### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bright Lawrence-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/brightlawrence](https://www.linkedin.com/in/brightlarence/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BQqAbvHxvQvGom7vZcc2HsA%3D%3D))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bright Lawrence-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/brightlawrence)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-itsdevbright-purple?style=flat-square&logo=google-chrome)](https://itsdevbright.vercel.app)  
 [![Twitter](https://img.shields.io/badge/Twitter-@itsdevbright-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/itsdevbright)
 
