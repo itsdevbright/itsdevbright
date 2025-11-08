@@ -1,6 +1,7 @@
 # Hi, I'm Bright 👋 (itsdevbright)
 
-### 🔭 Software Engineer | Full-Stack Developer | Web & Chrome Extension Enthusiast
+### 🔭 Frontend Software Engineer (React • UI/UX • Web Apps)
+
 I build **impactful web applications** and **innovative tools** that empower people and businesses. Passionate about combining **AI, interactivity, and clean design** to deliver meaningful digital experiences.
 
 ---
