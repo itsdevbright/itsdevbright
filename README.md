@@ -27,8 +27,6 @@ I build **impactful web applications** and **innovative tools** that empower peo
 | **[CoreVerse](https://github.com/yourusername/coreverse)** | Smart civic platform for African cities; citizens & governments report issues, monitor trends, and improve public services | React, Node.js, PostgreSQL | [Demo](#) |
 | **[AI Confuser](https://github.com/yourusername/ai-confuser)** | AI-powered prank Chrome extension with text swaps, prank mode toggles, & sarcastic assistant | React, OpenAI API | [Demo](#) |
 | **[CoverVerse](https://github.com/yourusername/coververse)** | Track trends and updates in your state; stay informed on emerging events | React, Node.js | [Demo](#) |
-| **[I Notes](https://github.com/yourusername/i-notes)** | Chrome extension for smart note-taking with easy-to-use UI | React, Chrome APIs | [Demo](#) |
-
 ---
 
 ### 📈 GitHub Stats
